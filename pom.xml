@@ -15,7 +15,7 @@
     <google-cloud-automl.version>0.55.0-beta</google-cloud-automl.version>
     <google-cloud-storage.version>1.74.0</google-cloud-storage.version>
     <google-api-client.version>1.28.0</google-api-client.version>
-    <jsoup.version>1.12.1</jsoup.version>
+    <jsoup.version>1.15.3</jsoup.version>
     <magnolia-site.version>1.2.2</magnolia-site.version>
   </properties>
 
